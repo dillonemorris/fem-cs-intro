@@ -1,2 +1,2 @@
-# fem-cs-intro
+# algorithms-exercises
 Created with CodeSandbox
